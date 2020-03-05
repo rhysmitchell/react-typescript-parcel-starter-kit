@@ -1,5 +1,6 @@
 # React/TypeScript & Parcel Starter Kit 🚀
-An extremely streamlined starter kit for working with React, TypeScript & Parcel Bundler.
+A streamlined starter kit for working with React, TypeScript & Parcel Bundler.
+Airbnb ESLint & Prettier configs included 💅 
 
  1. `git clone` this repository
  2. `cd react-typescript-parcel-starter-kit`
